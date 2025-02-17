@@ -1,0 +1,4 @@
+/home/diogo/Documentos/CLE/AULA1/weather-stations/build/CMakeFiles/cle-ws.dir
+/home/diogo/Documentos/CLE/AULA1/weather-stations/build/CMakeFiles/cle-samples.dir
+/home/diogo/Documentos/CLE/AULA1/weather-stations/build/CMakeFiles/edit_cache.dir
+/home/diogo/Documentos/CLE/AULA1/weather-stations/build/CMakeFiles/rebuild_cache.dir

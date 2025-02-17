@@ -1,0 +1,100 @@
+New York City;17.8501
+Albuquerque;10.8459
+Memphis;8.17844
+Minneapolis;14.0855
+Johannesburg;14.4314
+Kankan;25.323
+Abéché;36.9228
+Skopje;16.8863
+Erzurum;0.529516
+Kabul;13.4699
+Tel Aviv;11.7404
+Dampier;24.3774
+Douala;24.5266
+Tijuana;16.9723
+Moncton;5.58136
+Philadelphia;13.7406
+Saint-Pierre;10.2706
+Kampala;20.9168
+Batumi;13.4794
+Jacksonville;21.2116
+Rostov-on-Don;9.37148
+Port Vila;24.333
+Tamanrasset;24.5853
+Hiroshima;9.0423
+Virginia Beach;12.53
+Chongqing;18.6652
+Jayapura;28.8863
+Aden;24.9052
+Chongqing;21.5865
+Amsterdam;15.7709
+Port Vila;22.4534
+Damascus;14.1652
+Zürich;11.2454
+Nicosia;20.118
+Lisbon;17.2679
+Mandalay;26.7685
+Mexicali;26.7453
+Bata;21.4768
+New Orleans;19
+Abha;22.1329
+Port-Gentil;23.245
+Helsinki;7.34726
+La Ceiba;24.6324
+Busan;22.637
+Tashkent;12.5007
+Hanoi;19.5518
+Halifax;6.96566
+Ankara;10.8269
+Phnom Penh;29.7056
+Milan;8.07261
+Las Vegas;21.4445
+Milan;7.64908
+Montreal;5.84231
+Rome;14.5968
+Wau;33.2381
+Nassau;25.4314
+Harbin;2.26466
+Dushanbe;5.16173
+Washington, D.C.;16.5293
+Flores,  Petén;21.4379
+Erzurum;1.59836
+Mzuzu;11.4278
+Novosibirsk;3.69334
+Napoli;20.5613
+Thessaloniki;18.2657
+Canberra;12.3565
+Hiroshima;12.3648
+Las Palmas de Gran Canaria;12.2449
+Wrocław;10.0441
+Jacksonville;20.7445
+Damascus;11.4317
+Mahajanga;26.1789
+Baguio;18.7369
+Ulaanbaatar;-0.738559
+Kunming;8.22893
+Nouadhibou;16.8007
+Kathmandu;25.8308
+Cairns;33.5131
+Busan;16.3566
+Chongqing;19.3309
+Baltimore;14.9053
+Astana;5.65076
+Dushanbe;8.46722
+Montreal;9.09401
+Toliara;32.4052
+Harbin;7.74723
+Arkhangelsk;-2.6042
+Ndola;22.0687
+Arkhangelsk;7.90543
+Dushanbe;17.1758
+Malabo;21.7422
+Ghanzi;17.9875
+Dushanbe;23.1336
+Dar es Salaam;22.3481
+Maun;23.5435
+Ndola;16.2087
+Bratislava;16.1838
+Gabès;22.742
+Oslo;4.91046
+Omaha;12.7314
